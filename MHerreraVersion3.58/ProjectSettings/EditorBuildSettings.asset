@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/BackRock-NeonCity/Scenes/Escenario1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/BackRock-NeonCity/Scenes/Neon City.unity
+    guid: df2cede735ba5414293e8602e3ab0fb6
+  m_configObjects:
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 127c5d71f62e74b4bba5f25ce3999a49, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 5cc27fe58dccf2d459df4504831f57b5, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: e7a6868adc2f8ee48b41f8e600405b63, type: 2}
